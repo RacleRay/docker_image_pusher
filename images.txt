@@ -11,3 +11,4 @@ registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.12.0
 clickhouse/clickhouse-server:24.5
 altinity/clickhouse-operator:latest
 altinity/metrics-exporter:latest
+openebs/provisioner-localpv:4.1.0
