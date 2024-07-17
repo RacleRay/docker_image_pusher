@@ -12,3 +12,4 @@ clickhouse/clickhouse-server:24.5
 altinity/clickhouse-operator:latest
 altinity/metrics-exporter:latest
 openebs/provisioner-localpv:4.1.0
+openebs/linux-utils:4.1.0
