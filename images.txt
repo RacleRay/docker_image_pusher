@@ -16,6 +16,5 @@ openebs/linux-utils:4.1.0
 
 busybox
 alpine
-distroless
 
 quay.io/jetstack/cert-manager-cainjector:v1.15.1
