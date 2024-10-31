@@ -18,3 +18,5 @@ busybox
 alpine
 
 quay.io/jetstack/cert-manager-cainjector:v1.15.1
+
+messense/cargo-xwin
